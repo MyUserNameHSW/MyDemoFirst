@@ -1,0 +1,37 @@
+body{
+    background-image:url(../img/login.png);
+}
+#form1{
+    font-size: 20px;
+    color: grey;
+    width: 300px;
+    margin-left: 750px;
+    margin-top: 300px;
+}
+.t{
+    width: 200px;
+    height: 25px;
+}
+#btn1{
+    font-size: 15px;
+    width: 80px;
+    height: 30px;
+    margin-left: 80px;
+}
+#he1{
+    color: black;
+    text-decoration: none;
+}
+#form2{
+    font-size: 20px;
+    color: grey;
+    width: 300px;
+    margin-left: 750px;
+    margin-top: 270px;
+}
+#btn2{
+    font-size: 15px;
+    width: 80px;
+    height: 30px;
+    margin-left: 80px;
+}
